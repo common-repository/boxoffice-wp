@@ -1,0 +1,21 @@
+{
+	"name" : "BoxOffice WP",
+	"slug" : "box-office-wp",
+	"author" : "<a href='https://line.industries'>Line Industries</a>",
+	"author_profile" : "https://profiles.wordpress.org/lineindustries/",
+	"version" : "1.4.0",
+	"download_url" : "##downloadlink##",
+	"requires" : "6.0",
+	"tested" : "6.3.2",
+	"requires_php" : "7.1",
+	"last_updated" : "2024-06-04 12:00:00",
+	"sections" : {
+		"description" : "The simple way to integrate Spektrix with WordPress. No need for complicated API integration, the BoxOffice WP plugin is all that’s needed.<br/><h1>Event Listing</h1><p>Effortlessly sync your website with Spektrix using our plugin, guaranteeing that your events are always up-to-date. Present them beautifully in a filterable and sortable grid, ensuring seamless navigation for your visitors.</p><h1>Event Pages</h1><p>With BoxOffice WP, each event is given its own search optimized page, complete with a comprehensive list of dates and convenient booking buttons. Boost your online visibility and make booking a breeze for your audience.</p><h1>Easy Installation and Configuration</h1><p>Setting up BoxOffice WP is straightforward. Simply install the plugin through WordPress and enter the URL of your Spektrix feed. Our user-friendly interface ensures a hassle-free configuration process.</p><h1>Streamlined Booking Process</h1><p>From event browsing to the final checkout, our plugin creates all the necessary pages to provide your users with a seamless booking experience. Streamline the entire process and enhance customer satisfaction.</p><h1>Gutenberg Blocks</h1><p>Take full control over your website’s layout and functionality with our dedicated Gutenberg blocks included in the BoxOffice WP plugin and theme. Empower your site editors with extensive customisation options.</p><h1>Highly Customisable</h1><p>BoxOffice WP offers a fully-functioning site right out of the box. However, we understand that each business is unique. That’s why we provide ample configuration options, allowing you to tailor the plugin and theme to suit your specific needs.</p><h1>Features</h1><ul><li>Event listing</li><li>Event pages</li><li>Easy Installation and Configuration</li><li>Streamlined Booking Process</li><li>Gutenberg Blocks</li><li>Highly Customisable</li></ul>",
+        "installation" : "<h3>Option 1: Using the WordPress dashboard</h3><ol><li>Download the BoxOffice WP plugin ZIP file.</li><li>Log in to your WordPress website as an Administrator.</li><li>In the left-hand menu, click on “Plugins”.</li><li>Under “Plugins”, click the “Add New” sub menu.</li><li>Click the “Upload plugin” button.</li><li>Select the BoxOffice WP plugin ZIP file and click “Install now”.</li><li>After installation, you will find a menu item “BoxOffice WP”, click this to configure the plugin.</li></ol><h3>Option 2: Using FTP</h3><ol><li>Download the BoxOffice WP plugin ZIP file.</li><li>Upload ‘box-office-wp’ to the ‘/wp-content/plugins/’ directory.</li><li>Activate the plugin through the ‘Plugins’ menu in WordPress.</li><li>After installation, you will find a menu item “BoxOffice WP”, click this to configure the plugin.</li></ol>",
+		"changelog" : "<h4>1.4.0 – 04/06/2024</h4><ul><li>Maintenance release.</li></ul> <h4>1.3.0 – 15/05/2024</h4><ul><li>Maintenance release.</li></ul> <h4>1.2.0 – 01/03/2024</h4><ul><li>Maintenance release.</li></ul> <h4>1.1.0 – 01/02/2024</h4><ul><li>Maintenance release.</li></ul> <h4>1.0.0 – 24/10/2023</h4><ul><li>Initital release.</li></ul>"
+	},
+	"banners" : {
+		"low" : "",
+		"high" : ""
+	}
+}

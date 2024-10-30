@@ -1,0 +1,49 @@
+.box-office-wp-admin{
+    display: flex;
+    flex-direction: row;
+}
+
+.box-office-wp-content{
+    margin-top: 15px;
+	float: left;
+}
+
+.box-office-wp-banner{
+
+    background-color: white;
+    width: 400px;
+}
+
+.banner-content{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 25px;
+}
+
+.branding-img{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 60px;
+}
+
+.content-img{
+    display: block;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-table{
+	width: 600px;
+}
+
+@media screen and (max-width: 1200px) {
+    .box-office-wp-admin{
+        flex-direction: column;
+    }
+    .box-office-wp-content{
+        width: 100%;
+    }
+}
+    

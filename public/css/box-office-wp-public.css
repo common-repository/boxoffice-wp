@@ -1,0 +1,77 @@
+ iframe {
+    display: block;       /* iframes are inline by default */
+    border: none;         /* Reset default border */
+    width: 100%;
+	height: 1000px;
+}
+
+/* Event list styling */
+
+.box-office-wp-event-list {
+    margin: 4em auto 4em auto;
+    width: 100%;
+    max-width: 96em;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.box-office-wp-event {
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.box-office-wp-event-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.2em;
+    line-height: 1.2;
+    text-decoration: none;
+}
+
+.box-office-wp-event-description {
+    margin-top: 0px;
+    margin-bottom: 1em;
+    font-size: 1.125em;
+    font-weight: normal;
+}
+
+.box-office-wp-event-html-description {
+
+}
+
+.box-office-wp-event-duration {
+
+}
+
+.box-office-wp-event-image {
+    width: 100%;
+    padding: 1em;
+
+}
+
+.box-office-wp-event-is-on-sale {
+    display: flex;
+    align-items: center;
+    height: 3em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    border: 1px solid #000;
+    width: fit-content;
+    background-color: #000;
+    color: #fff;
+}
+
+.box-office-wp-event-instance-dates {
+
+}
+
+.box-office-wp-event-first-instance-date-time {
+
+}
+
+.box-office-wp-event-last-instance-date-time {
+
+}
